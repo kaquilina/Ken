@@ -1,0 +1,15 @@
+c:\users\kenneth\documents\visual studio 2015\Projects\WorkSheet2\WorkSheet2\bin\Debug\WorkSheet2.exe.config
+c:\users\kenneth\documents\visual studio 2015\Projects\WorkSheet2\WorkSheet2\bin\Debug\WorkSheet2.exe
+c:\users\kenneth\documents\visual studio 2015\Projects\WorkSheet2\WorkSheet2\bin\Debug\WorkSheet2.pdb
+c:\users\kenneth\documents\visual studio 2015\Projects\WorkSheet2\WorkSheet2\obj\Debug\WorkSheet2.csprojResolveAssemblyReference.cache
+c:\users\kenneth\documents\visual studio 2015\Projects\WorkSheet2\WorkSheet2\obj\Debug\WorkSheet2.exe
+c:\users\kenneth\documents\visual studio 2015\Projects\WorkSheet2\WorkSheet2\obj\Debug\WorkSheet2.pdb
+D:\CodeBase\BSC Course\WorkSheet2\WorkSheet2\bin\Debug\WorkSheet2.exe.config
+D:\CodeBase\BSC Course\WorkSheet2\WorkSheet2\obj\Debug\WorkSheet2.exe
+D:\CodeBase\BSC Course\WorkSheet2\WorkSheet2\obj\Debug\WorkSheet2.pdb
+D:\CodeBase\BSC Course\WorkSheet2\WorkSheet2\bin\Debug\WorkSheet2.exe
+D:\CodeBase\BSC Course\WorkSheet2\WorkSheet2\bin\Debug\WorkSheet2.pdb
+D:\CodeBase\BSC Course\WorkSheet2\WorkSheet2\obj\Debug\WorkSheet2.csprojResolveAssemblyReference.cache
+D:\CodeBase\Ken\BSC Course\WorkSheet2\WorkSheet2\bin\Debug\WorkSheet2.exe.config
+D:\CodeBase\Ken\BSC Course\WorkSheet2\WorkSheet2\obj\Debug\WorkSheet2.exe
+D:\CodeBase\Ken\BSC Course\WorkSheet2\WorkSheet2\obj\Debug\WorkSheet2.pdb
