@@ -1,0 +1,6 @@
+D:\CodeBase\Ken\BSC Course\Worksheet3\Worksheet3\bin\Debug\Worksheet3.exe.config
+D:\CodeBase\Ken\BSC Course\Worksheet3\Worksheet3\bin\Debug\Worksheet3.exe
+D:\CodeBase\Ken\BSC Course\Worksheet3\Worksheet3\bin\Debug\Worksheet3.pdb
+D:\CodeBase\Ken\BSC Course\Worksheet3\Worksheet3\obj\Debug\Worksheet3.csprojResolveAssemblyReference.cache
+D:\CodeBase\Ken\BSC Course\Worksheet3\Worksheet3\obj\Debug\Worksheet3.exe
+D:\CodeBase\Ken\BSC Course\Worksheet3\Worksheet3\obj\Debug\Worksheet3.pdb
