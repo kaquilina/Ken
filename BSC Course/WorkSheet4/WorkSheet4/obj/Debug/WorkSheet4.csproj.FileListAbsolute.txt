@@ -1,0 +1,6 @@
+D:\CodeBase\Ken\BSC Course\WorkSheet4\WorkSheet4\bin\Debug\WorkSheet4.exe.config
+D:\CodeBase\Ken\BSC Course\WorkSheet4\WorkSheet4\bin\Debug\WorkSheet4.exe
+D:\CodeBase\Ken\BSC Course\WorkSheet4\WorkSheet4\bin\Debug\WorkSheet4.pdb
+D:\CodeBase\Ken\BSC Course\WorkSheet4\WorkSheet4\obj\Debug\WorkSheet4.csprojResolveAssemblyReference.cache
+D:\CodeBase\Ken\BSC Course\WorkSheet4\WorkSheet4\obj\Debug\WorkSheet4.exe
+D:\CodeBase\Ken\BSC Course\WorkSheet4\WorkSheet4\obj\Debug\WorkSheet4.pdb
